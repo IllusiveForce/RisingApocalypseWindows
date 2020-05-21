@@ -1,2 +1,2 @@
 # RisingApocalypseWindows
-Zombie shooter
+Zombie shooter made in Pygame.
