@@ -1,0 +1,46 @@
+Update 0.5.5
+Our BIGGEST UPDATE EVER!!!
+
+Added 5 NEW Weapons, the Flamethrower, Shotgun, Raygun, Plasma Rifle, and Neutron Beam!!
+The Flamethrower and Shotgun can be purchased with 1600 and 300 skulls, respectively.
+Buy new WEAPON CRATES for a chance to win the 3 exclusive weapons!
+
+Added ARMOR, which will protect you from the sharp claws and fangs of zombies! 5 New Armor pieces.
+
+Fixed some bugs!!
+
+COMING SOON:
+New SPAS-12?
+New P90?
+FPS fixes?			
+UI revamp?
+
+Update 0.5.6.5693456924562973459234765923475689
+Weapon Update!!!
+
+Added P90 and SPAS12, which should protect you from the zombies! Purchase for 500 and 700 skulls respectively.
+Played around with textures and images.
+Fixed a small FPS issue that plagued the game like a zombie virus.
+
+COMING SOON:
+New MP5?
+New Armor?
+New Gamemode?
+Arsenal Revamp?
+Pay-to-Win Crates? (nah, not really)
+Bug Fixes?
+
+Update 0.5.7
+ANIMATIONS!!!
+
+Player and Zombies are animated.
+Pause your game by pressing Esc!!!
+New MP5 gun! Buy with 900 skulls!!!
+Arsenal Revamp!!!
+HAZMAT SUIT!! 
+
+COMING SOON:
+New Missions?
+More Weapons?
+Image Revamp??
+
